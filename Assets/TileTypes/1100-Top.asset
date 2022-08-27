@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07cd959bb9799334084d96608b263124, type: 3}
+  m_Name: 1100-Top
+  m_EditorClassIdentifier: 
+  topRight: 1
+  topLeft: 1
+  bottomRight: 0
+  bottomLeft: 0
+  tile: {fileID: 11400000, guid: 1e073fa73cd3dfb4d83a83b12ed38f3e, type: 2}
+  colliderTile: {fileID: 11400000, guid: 38626f96f5dfeb9438ddca5c22003013, type: 2}
